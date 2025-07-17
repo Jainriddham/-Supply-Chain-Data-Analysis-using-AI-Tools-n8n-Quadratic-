@@ -1,5 +1,7 @@
-# Supply-Chain-Data-Analysis-using-AI-Tools-n8n-Quadratic-
-This project focuses on building end-to-end analytics solutions using modern AI tools (n8n &amp; Quadratic) within the supply chain domain.
+# 📦 End-to-End AI-Powered Supply Chain Analytics Project 🚀  
+*Leveraging N8N & Quadratic for Workflow Automation & Analysis*  
+
+---
 
 ## 🔍 **Project Overview**  
 
@@ -95,4 +97,15 @@ The project is a perfect blend of **low-code automation** and **high-level analy
 ---
 
 ## 🙌 **Acknowledgments**  
-Special thanks to [**Codebasics**](https://codebasics.io) and Dhaval Patel for providing the foundation, inspiration, and learning materials that mad
+Special thanks to [**Codebasics**](https://codebasics.io) and Dhaval Patel for providing the foundation, inspiration, and learning materials that made this project possible.  
+
+---
+
+## 🔗 **Connect with Me**  
+📧 riddhamjainrj@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/ridjain29)  
+🌐 [Portfolio](https://codebasics.io/portfolio/Riddham-Jain)  
+
+---
+
+⭐ If you found this project helpful or inspiring, don't forget to **Star** this repo!

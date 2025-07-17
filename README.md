@@ -99,16 +99,4 @@ The project is a perfect blend of **low-code automation** and **high-level analy
 ---
 
 ## 🙌 **Acknowledgments**  
-Special thanks to [**Codebasics**](https://codebasics.io) and Dhaval Patel for providing the foundation, inspiration, and learning materials that made this project possible.  
-
----
-
-## 🔗 **Connect with Me**  
-📧 riddhamjainrj@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/riddhamjain/)  
-🌐 [Portfolio](#) (optional)  
-
----
-
-⭐ If you found this project helpful or inspiring, don't forget to **Star** this repo!
-
+Special thanks to [**Codebasics**](https://codebasics.io) and Dhaval Patel for providing the foundation, inspiration, and learning materials that mad

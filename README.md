@@ -102,7 +102,7 @@ Special thanks to [**Codebasics**](https://codebasics.io) and Dhaval Patel for p
 ---
 
 ## 🔗 **Connect with Me**  
-📧 riddhamjainrj@gmail.com  
+📧 riddhamjainat29@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/ridjain29)  
 🌐 [Portfolio](https://codebasics.io/portfolio/Riddham-Jain)  
 
